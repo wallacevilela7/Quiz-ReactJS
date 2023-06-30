@@ -12,13 +12,14 @@ export const questions : Question[] = [
         answer: 1
     },
     {
-        question: "Melhor comida no domingo?",
+        question: "Qual melhor método de cozinhar?",
         options: [
-            "Macarronada",
-            "Lasanha",
-            "Churrasco",
-            "Strogonoff"
+            "Microondas",
+            "Fogão",
+            "Fogueira",
+            "Lança-chamas"
         ],
-        answer: 1
-    }
+        answer: 3
+    },
+      
 ];
